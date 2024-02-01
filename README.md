@@ -30,7 +30,7 @@ if you want to **customize** answers you can change **answers** in **env**
 ### Start
 
 ```shell
-cd reminder_bot
+cd reminder-bot
 docker build -t reminder_bot .
 docker run -d --name reminder_bot reminder_bot
 ```
