@@ -34,3 +34,5 @@ cd reminder-bot
 docker build -t reminder_bot .
 docker run -d --name reminder_bot reminder_bot
 ```
+
+![img.png](img.png)
